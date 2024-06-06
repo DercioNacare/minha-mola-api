@@ -1,12 +1,14 @@
-package com.dncoce.mmola;
+package com.dncode.mmola;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MinhaMolaApplication {
+public class MinhaMolaApplication 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		SpringApplication.run(MinhaMolaApplication.class, args);
 	}
 }
